@@ -4,7 +4,20 @@ const wallets = [
     { name: "Wallet 2", solscanLink: "", gmgnLink: "" },
     { name: "Wallet 3", solscanLink: "", gmgnLink: "" },
     { name: "Wallet 4", solscanLink: "", gmgnLink: "" },
-    { name: "Wallet 5", solscanLink: "", gmgnLink: "" }
+    { name: "Wallet 5", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 7", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 8", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 9", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 10", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 11", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 12", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 13", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 14", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 15", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 16", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 17", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 18", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 19", solscanLink: "", gmgnLink: "" },
 ];
 
 // Function to create and append wallet cards

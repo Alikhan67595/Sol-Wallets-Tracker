@@ -110,18 +110,30 @@ footer a:hover {
     text-decoration: underline;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .header-content {
         flex-direction: column;
         gap: 15px;
     }
-
+    
+    .header-content h1{
+        font-size: 20px;
+    }
+    
     .wallet-container {
         grid-template-columns: 1fr;
     }
-
+    
     .button-container {
         flex-direction: column;
         gap: 5px;
     }
+}
+
+
+@media screen and (max-width: 445px) {
+    .header-content h1{
+        font-size: 18px;
+    }
+
 }
