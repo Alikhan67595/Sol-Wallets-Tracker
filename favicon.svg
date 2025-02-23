@@ -1,0 +1,6 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <!-- Coin circle -->
+    <circle cx="8" cy="8" r="7" fill="none" stroke="#00ff99" stroke-width="2"/>
+    <!-- M letter in the center -->
+    <text x="50%" y="65%" text-anchor="middle" fill="#00ff99" font-size="10" font-family="Poppins, sans-serif" font-weight="bold">M</text>
+</svg>
