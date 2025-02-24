@@ -6,13 +6,30 @@
     <title>Sol Wallets Tracker</title>
     <link rel="icon" type="image/svg+xml" href="./favicon.svg">
     <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./sidebar.css">
 </head>
 <body>
     <header>
         <div class="header-content">
             <h1>Meme Coin Wallet Tracker</h1>
         </div>
+        <!-- Menu Button -->
+        <div id="menuButton"><img src="./list.svg" alt=""></div>
     </header>
+
+
+     <!-- Sidebar -->
+     <div id="sidebar">
+        <img class="logo-side" src="./favicon.svg" alt="">
+         <button id="closeButton">×</button> <!-- Close Button -->
+         <ul>
+             <li><a class="about" href="#">Home</a></li>
+             <li><a class="about" href="#">About</a></li>
+             <li><a class="about" href="#">Services</a></li>
+             <li><a class="about" href="#">Contact</a></li>
+         </ul>
+     </div>
+ 
     <main>
         <section id="wallet-list" class="wallet-container">
             <!-- Wallet cards will be dynamically added here -->
@@ -23,5 +40,6 @@
     </footer>
 
     <script src="./app.js"></script>
+    <script src="./sidebar.js"></script>
 </body>
 </html>
