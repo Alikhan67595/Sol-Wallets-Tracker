@@ -1,7 +1,7 @@
 // Array of wallet objects with placeholders for links
 const wallets = [
-    { name: "Wallet 1", solscanLink: "", gmgnLink: "" },
-    { name: "Wallet 2", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 1", solscanLink: "https://solscan.io/account/5gPfrsK5KhaRWH8eDr2xyQgPRmw9nnQcNVxGFGCu9Kgc", gmgnLink: "https://gmgn.ai/sol/address/5gPfrsK5KhaRWH8eDr2xyQgPRmw9nnQcNVxGFGCu9Kgc" },
+    { name: "Wallet 2", solscanLink: "https://solscan.io/account/5H3dukkrF5SGtUGE6Zmo4eNkWzdnVooGbLQe9jH7Dscb#portfolio", gmgnLink: "https://gmgn.ai/sol/address/5H3dukkrF5SGtUGE6Zmo4eNkWzdnVooGbLQe9jH7Dscb" },
     { name: "Wallet 3", solscanLink: "", gmgnLink: "" },
     { name: "Wallet 4", solscanLink: "", gmgnLink: "" },
     { name: "Wallet 5", solscanLink: "", gmgnLink: "" },
