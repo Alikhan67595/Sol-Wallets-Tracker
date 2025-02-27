@@ -2,9 +2,9 @@
 const wallets = [
     { name: "Wallet 1", solscanLink: "https://solscan.io/account/5gPfrsK5KhaRWH8eDr2xyQgPRmw9nnQcNVxGFGCu9Kgc", gmgnLink: "https://gmgn.ai/sol/address/5gPfrsK5KhaRWH8eDr2xyQgPRmw9nnQcNVxGFGCu9Kgc" },
     { name: "Wallet 2", solscanLink: "https://solscan.io/account/5H3dukkrF5SGtUGE6Zmo4eNkWzdnVooGbLQe9jH7Dscb#portfolio", gmgnLink: "https://gmgn.ai/sol/address/5H3dukkrF5SGtUGE6Zmo4eNkWzdnVooGbLQe9jH7Dscb" },
-    { name: "Wallet 3", solscanLink: "", gmgnLink: "" },
-    { name: "Wallet 4", solscanLink: "", gmgnLink: "" },
-    { name: "Wallet 5", solscanLink: "", gmgnLink: "" },
+    { name: "Wallet 3", solscanLink: "https://solscan.io/account/8CAhSFscKCiAyPYP6MnXu1fecpnBGcyV8csXEDgoKThK", gmgnLink: "https://gmgn.ai/sol/address/8CAhSFscKCiAyPYP6MnXu1fecpnBGcyV8csXEDgoKThK" },
+    { name: "Wallet 4", solscanLink: "https://solscan.io/account/DfRUNJGJfHCWDFNNqNih4nfJ7AX1tuL6KiE1U3piCEqf#balanceChanges", gmgnLink: "https://gmgn.ai/sol/address/DfRUNJGJfHCWDFNNqNih4nfJ7AX1tuL6KiE1U3piCEqf" },
+    { name: "Wallet 5", solscanLink: "https://solscan.io/account/GypMq61CjbnfkxtZAXtj1hKLQSPWwwB57iuxoouEsdWh#balanceChanges", gmgnLink: "https://gmgn.ai/sol/address/GypMq61CjbnfkxtZAXtj1hKLQSPWwwB57iuxoouEsdWh" },
     { name: "Wallet 7", solscanLink: "", gmgnLink: "" },
     { name: "Wallet 8", solscanLink: "", gmgnLink: "" },
     { name: "Wallet 9", solscanLink: "", gmgnLink: "" },
